@@ -19,9 +19,6 @@ This project demonstrates a full data path from asynchronous input to video gene
 * **Protocol Handling:** Implemented logic to ignore PS/2 'Break Codes' (e.g., `0xF0`) to prevent duplicate typing on key release.
 * **Custom ROM:** Built a custom Font ROM module to translate ASCII values into pixel-by-pixel character display.
 
-## 🎥 Demo
-*(Note: Upload your video here or add a link to the LinkedIn post)*
-
 ## 🚀 Future Improvements
 * Add a physical Backspace functionality.
 * Add an automatic "Clear Screen" state machine.
